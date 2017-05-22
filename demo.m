@@ -20,6 +20,8 @@
 
 %% setup
 % param = model_config();
+addpath(genpath('Tools'));
+addpath(genpath('imgs'));
 load('3D_library.mat');
 
 %% input image path
